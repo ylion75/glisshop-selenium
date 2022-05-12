@@ -43,10 +43,10 @@ public class TestGlissShop {
 }
 
 //TODO
-// 1. Création de compte
-// 2. Connexion
-// 3. Déconnexion
-// 4. Recherche d'articles
+// 1. Création de compte OK
+// 2. Connexion OK
+// 3. Déconnexion OK
+// 4. Recherche d'articles OK
 // 5. L'ajout d'un article au panier
 // 6. Supprimer article panier
 // 7. Commande
